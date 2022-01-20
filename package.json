@@ -1,0 +1,20 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "Practica del curso de SPA (Single Page Aplication) de Platzi.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDiego350z1/SPA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheDiego350z1/SPA/issues"
+  },
+  "homepage": "https://github.com/TheDiego350z1/SPA#readme"
+}
