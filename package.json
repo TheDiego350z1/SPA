@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/TheDiego350z1/SPA/issues"
   },
-  "homepage": "https://github.com/TheDiego350z1/SPA#readme"
+  "homepage": "https://github.com/TheDiego350z1/SPA#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.10",
+    "babel-loader": "^8.2.3",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.3"
+  }
 }
